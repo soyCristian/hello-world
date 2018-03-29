@@ -1,5 +1,5 @@
 <?php
 
-eho info();
+echo info();
 
 ?>
